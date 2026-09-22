@@ -1,15 +1,19 @@
-# 🌐 Zion App Network — Interlinks
+# churn-radar — Zion App Network
 
-**churn-radar** is part of the Zion Tech Group app network (630+ apps).
+Zion Churn Radar — customer health scoring & churn prediction.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Industry Platforms](https://github.com/Zion-support/zion-network/blob/main/network/industry-platforms.md)
+- Live app: https://ziontechgroup.com/churn-radar/
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
-## Related apps
-- [zion-ai-churn-predictor](https://github.com/Zion-support/zion-ai-churn-predictor) — churn prediction & save playbooks
-- [zion-ai-churn-early-warning](https://github.com/Zion-support/zion-ai-churn-early-warning) — usage-signal churn risk
-- [zion-crm-intelligence](https://github.com/Zion-support/zion-crm-intelligence) — CRM intelligence
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+## Related apps (Business & Field Ops)
+- [zion-ai-churn-early-warning](https://ziontechgroup.com/zion-ai-churn-early-warning) — usage-signal churn risk detection
+- [zion-ai-churn-predictor](https://ziontechgroup.com/zion-ai-churn-predictor/) — churn prediction
+- [ai-project-tracker](https://ai-project-tracker.ziontechgroup.com) — intelligent project management
+- [zion-ai-sales-call-analyst](https://ziontechgroup.com/zion-ai-sales-call-analyst) — sales call analysis
+- [vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare) — vendor comparison scoring
+- [ai-roi-calculator](https://github.com/Zion-support/ai-roi-calculator) — AI ROI calculator
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
