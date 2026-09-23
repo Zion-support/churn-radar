@@ -1,10 +1,14 @@
-# Churn Radar
+# 🌐 Zion App Network — Interlinks
 
-Customer churn early-warning radar.
+**churn-radar** is part of the Zion Tech Group app network (630+ apps).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
-- Related: [zion-ai-churn-predictor](https://github.com/Zion-support/zion-ai-churn-predictor) · [zion-ai-churn-early-warning](https://github.com/Zion-support/zion-ai-churn-early-warning) · [zion-crm-intelligence](https://github.com/Zion-support/zion-crm-intelligence) · [zion-ai-sales-intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence)
+- 🗂️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps
+- [content-roi-dashboard](https://github.com/Zion-support/content-roi-dashboard) — content revenue attribution
+- [partner-referral-tracker](https://github.com/Zion-support/partner-referral-tracker) — referral & pipeline tracking
+- [expense-audit-ai](https://github.com/Zion-support/expense-audit-ai) — expense auditing AI
+
+---
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
