@@ -26,7 +26,7 @@ Churn Radar is a free, browser-based tool from the [Zion App Network](https://zi
 ## Links
 - 🌐 Homepage: https://ziontechgroup.com/
 - 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
-- 💼 Services: https://ziontechgroup.com/services/ · Discovery $99: https://ziontechgroup.com/discovery/
+- 💼 Services: https://ziontechgroup.com/services/ · Free online Discovery: https://ziontechgroup.com/discovery/
 
 
 ## 📣 Part of the Customer Experience & Support AI Suite
